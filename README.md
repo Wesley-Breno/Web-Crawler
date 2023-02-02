@@ -1,2 +1,2 @@
 # Web-Crawler
-Função que simula um web crawler e pega palavras (especificas ou não) de um site e seus links, que pode ser especificado a quantidade de paginas que serão analisadas do site. No final, cria um arquivo JSON contendo todos os dados que foram analisados.
+Este código é uma função em Python que permite raspar as palavras de um site da web, exibir a frequência dessas palavras e procurar por uma palavra específica. A função usa a biblioteca requests para acessar o site e a biblioteca BeautifulSoup para analisar o HTML da página. A função também pode limitar a quantidade de páginas a serem pesquisadas e salvar o resultado da contagem das palavras como um arquivo JSON.
