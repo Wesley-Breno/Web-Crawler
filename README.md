@@ -20,7 +20,7 @@ Este código foi feito para procurar palavras em um site e suas páginas. Com o 
 <p>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images_readme/chamando_funcao.png">
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A função ira procurar em 100 paginas do site "https://g1.globo.com/" a palavra "tecnologia". Apos feito esta analise, ela ira criar um &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arquivo JSON com o endereço onde cada palavra foi encontrada e quantas vezes a palavra foi mostrada.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A função ira procurar em 100 paginas do site "https://g1.globo.com/" a palavra "tecnologia". Apos feito esta analise, ela ira criar um arquivo JSON com o endereço onde cada palavra foi encontrada e quantas vezes a palavra foi mostrada.
 
 <strong>
 	<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Parametros da função ]
@@ -28,7 +28,7 @@ Este código foi feito para procurar palavras em um site e suas páginas. Com o 
 <p>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images_readme/parametros.png">
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Se você não informar uma palavra especifica, o programa ira pegar todas as palavras encontradas e colocar quantas vezes estas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;palavras foram mostradas em cada site<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Se você não informar uma palavra especifica, o programa ira pegar todas as palavras encontradas e colocar quantas vezes estas palavras foram mostradas em cada site<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Se você não informar quantas paginas o programa deve analisar, o programa so ira analisar 10 paginas do site informado.<br>
 
 <strong>
